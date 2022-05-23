@@ -12,7 +12,7 @@ Before I start, here is my disclaimer:
 > The following are my personal opinions about the title of data scientist. They are definitely biased but I don't mean in anyway to be neither judgmental nor discriminated.
 
 ### Not All Data Scientists are Scientists
-I think the title of Data Scientist is inflated quite a bit nowaday. This maybe biased because English is not my native language. In Chinese, the titles with suffix "學家" (similar to Englisg suffix "-ist" in scientist or "-ian" in statistician), are for people who dedicate into novel research to expand the human's knowledge frontier. Here are some examples:
+I think the title of Data Scientist is inflated quite a bit nowaday. This maybe biased because English is not my native language. In Chinese, the titles with suffix "**學家**" (similar to Englisg suffix "-ist" in scientist or "-ian" in statistician), are for people who dedicate into novel research to expand the human's knowledge frontier. Here are some examples:
 - 科學家 scientist
 - 物理學家 physicist
 - 化學家 chemist
@@ -20,7 +20,7 @@ I think the title of Data Scientist is inflated quite a bit nowaday. This maybe 
 - 統計學家 statistician
 - 數學家 mathematician
 
-On the other hand, for the professionals who are experts doing something based on what we already know, their titles are emphasized by the suffix "師". For example:
+On the other hand, for the professionals who are experts doing something based on what we already know, their titles are emphasized by the suffix "**師**". For example:
 - 工程師 engineer
 - 設計師 desiner
 - 雕刻師 sculpturer
