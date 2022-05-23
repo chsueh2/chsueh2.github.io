@@ -8,7 +8,8 @@
 
 
 ## My 2¢
-Before I start, here is my disclaimer. The following are my personal opinions about the title data scientist. I don't mean to be neither judgmental nor discriminated.
+Before I start, here is my disclaimer: 
+The following are my personal opinions about the title of data scientist. They are definitely biased but I don't mean in anyway to be neither judgmental nor discriminated.
 
 ### Not All Data Scientists are Scientists
 I think the title of Data Scientist is inflated quite a bit nowaday. This maybe biased because English is not my native language. In Chinese, the titles with suffix "學家" (similar to Englisg suffix "-ist" in scientist or "-ian" in statistician), are for people who dedicate into novel research to expand the human's knowledge frontier. Here are some examples:
