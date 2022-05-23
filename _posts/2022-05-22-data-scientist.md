@@ -3,7 +3,7 @@
 ## Assigned Readings
 - [Data Scientists vs Statisticians - Medium](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f)
 - [Machine Learning Engineer vs. Data Scientist](https://www.springboard.com/blog/data-science/machine-learning-engineer-vs-data-scientist/)
-- [Data Science vs. Data Analytics vs. Machine Learning - Expert Talk](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article) (LO 1.1)
+- [Data Science vs. Data Analytics vs. Machine Learning - Expert Talk](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)
 - [What is data science vs. statistics? - The Signal](https://mixpanel.com/blog/this-is-the-difference-between-statistics-and-data-science/)
 
 
