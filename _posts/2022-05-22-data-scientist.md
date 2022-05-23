@@ -12,7 +12,7 @@ Before I start, here is my disclaimer:
 > The following are my personal opinions about the title of data scientist. They are definitely biased but I don't mean in anyway to be neither judgmental nor discriminated.
 
 ### Not All Data Scientists are Scientists
-I think the title of Data Scientist is inflated quite a bit nowaday. This may be biased because English is not my native language and I don't think all data scientist are actual "scientists". Instead, many of data scientists are more like engineers.
+I think the title of Data Scientist is inflated quite a bit nowaday. This may be biased because English is not my native language and I tend to interpret the terminology based literally based on my language skills. 
 
 In Chinese, the professional titles with suffix "**學家**" (similar to English suffix "-ist" in scientist or "-ian" in statistician), are for the people who dedicate into novel research in order to expand the human's knowledge frontier. Here are some examples:
 - 科學家 scientist
@@ -28,7 +28,9 @@ On the other hand, for the professionals who are experts doing something based o
 - 雕刻師 sculpturer
 - 烘培師 baker
 
-Therefore, I have a higher standard for myself. Even if I have a data science job, I don't automatically attribute myself as a data scientist. Thus, I decided to start this master program to polish my knowledge and skillset to be qualified as a true data **scientist**. Without them, I would always think myself as a data science engineer instead.
+Therefore, as a Chinese native speaker, I don't think data scientist are all true "scientists". Instead, many of the data scientists are skilled engineers in computer science and engineering.
+
+I have a higher standard for myself. Even if I have a data science job, I don't automatically attribute myself as a data scientist. Thus, I decided to start this master program to polish my knowledge and skillset to be qualified as a true data **scientist**. Without them, I would always think myself as a data science engineer instead.
 
 ### Data Scientist vs. Statistician
 - The similarity, already mentioned above, is their delication to pioneer the field of data science. 
