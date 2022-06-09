@@ -106,10 +106,10 @@ machine learning.
 
 ## Example R Markdown Output
 
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGxvdChpcmlzKVxuYGBgIn0= -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGxvdChpcmlzKSBcbmBgYCJ9 -->
 
 ``` r
-plot(iris)
+plot(iris) 
 ```
 
 <!-- rnb-source-end -->

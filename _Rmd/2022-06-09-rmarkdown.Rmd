@@ -61,6 +61,6 @@ If I can wish for two things to be added into the current `R`, I would propose t
 
 ## Example R Markdown Output
 ```{r}
-plot(iris)
+plot(iris) 
 ```
 
