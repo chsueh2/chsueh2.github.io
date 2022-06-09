@@ -5,4 +5,4 @@ Here I will:
 ![Data Scientist](https://i.redd.it/p6va3hrtmvr71.jpg)
 
 - and update the mystery...
-![GoGo PRO](https://user-images.githubusercontent.com/99301834/170240363-f2776098-84c5-45df-adaa-afff2ffd58de.jpg)
+![GoGo PRO](../images/GoGo-PRO.jpg)
