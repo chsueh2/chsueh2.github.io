@@ -3,9 +3,6 @@ Programming Background
 Chien-Lan Hsueh
 2022-06-09
 
--   [My R Programming Experience](#my-r-programming-experience)
--   [Example R Markdown Output](#example-r-markdown-output)
-
 ## My R Programming Experience
 
 In this blog, I will share my experience with R and my thoughts about R
@@ -98,18 +95,15 @@ language. It would be nice if we can do more beyond statistics and data
 analysis, but maybe we shouldn’t be so greedy. After all, that is its
 strength and what it is designed for.
 
-If I can wish for two things to be added into the current `R`, I would
-propose to have **list comprehension** and **dictionary** data type like
-`Python` has. These two features with `R`’s strengths like vectorization
-and piping can really move `R` to next level in the era of big data and
-machine learning.
+If I can wish for one thing to be added into the current `R`, I would
+propose to have **list comprehension** like `Python` has. This together
+with `R`’s strengths like vectorization and piping can really empower
+`R` to next level in the era of big data and machine learning.
 
 ## Example R Markdown Output
-
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucGxvdChpcmlzKSBcbmBgYCJ9 -->
 
 ``` r
 plot(iris) 
 ```
 
-<!-- rnb-source-end -->
+![](../images/unnamed-chunk-5-1.png)<!-- -->

@@ -2,27 +2,9 @@
 title: "Programming Background"
 author: "Chien-Lan Hsueh"
 date: "`r Sys.Date()`"
-output:
-  github_document:
-    html_preview: false
-    keep_html: false
-    toc: true
-    toc_depth: 2
 ---
 
 ```{r include=FALSE}
-if (!require("pacman")) utils::install.packages("pacman", dependencies = TRUE)
-
-pacman::p_load(
-	here,
-	stats, 
-	scales,
-	tidyverse,
-	magrittr,
-	glue,
-	rmarkdown, knitr
-)
-
 knitr::opts_chunk$set(fig.path = "../images/")
 ```
 
@@ -56,7 +38,7 @@ Third, *grass is greener in the other side*. In the last decade, there are new M
 
 Fourth, related to the example above, `R` is not a general purpose language. It would be nice if we can do more beyond statistics and data analysis, but maybe we shouldn't be so greedy. After all, that is its strength and what it is designed for.
 
-If I can wish for two things to be added into the current `R`, I would propose to have **list comprehension** and **dictionary** data type like `Python` has. These two features with `R`'s strengths like vectorization and piping can really move `R` to next level in the era of big data and machine learning.
+If I can wish for one thing to be added into the current `R`, I would propose to have **list comprehension** like `Python` has. This together with `R`'s strengths like vectorization and piping can really empower `R` to next level in the era of big data and machine learning.
 
 
 ## Example R Markdown Output
