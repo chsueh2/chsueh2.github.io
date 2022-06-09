@@ -21,7 +21,7 @@ Before coming across this method, I use a `R` package called [`workflowr`](https
 ## Some updates about my new family member GoGo Pro
 Today (June 5), we got the DNA report and that reveals the mysterious origin of our puppy GoGo. His mom is an Austalia cattle dog (aka Australia Heeler) which is no mystery at all. However, no one knows for sure who his dad is. The DNA test has been done in his first vet visit. Couple weeks later, the report finally is here. It turns out he is a mix of Austalia cattle dog (aka Australia Heeler) and Labrador Retriever.
 
-According to Prof. Stanley Coren's book `The Intelligence of Dogs`[^1], Australian cattle dogs rank 10 and Labrador retrievers rank 7. Therefore, GoGo must rank 8.5 on dog intelligency. I feel so lucj I am study in a statistics master program...
+According to Prof. Stanley Coren's book `The Intelligence of Dogs`[^1], Australian cattle dogs rank 10 and Labrador retrievers rank 7. Therefore, GoGo must rank 8.5 on dog intelligency. I feel so lucky I am now in a statistics master program to polish my stats knowledge and skill.
 
 [^1]: [Wiki: The Intelligence of Dogs](https://en.wikipedia.org/wiki/The_Intelligence_of_Dogs)
 
