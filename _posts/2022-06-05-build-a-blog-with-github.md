@@ -12,13 +12,13 @@ In the course ST588, we were introduced a quick and easy way to set up blog with
 
 The blog post markdown files have to be named using this format: `yyyy-mm-dd-your-blog-post-name.md` and saved in `_posts` folder
 
-# The other method
+## The other method
 Before coming across this method, I use a `R` package called [`workflowr`](https://github.com/workflowr/workflowr) by [Dr. John Blischak](https://jdblischak.com/workflowr.html). TIt actually is not designed for making blog posts. In fact, this package helps organize data analysis and reports, and make the task workflow reproducible and easy to share with collaborators.
 > Reproducible research with workflowr
 >
 > The workflowr R package combines R Markdown and version control (Git) to create a website containing time-stamped, versioned, and documented results.
 
-# Some update about my new family member GoGo Pro
+## Some updates about my new family member GoGo Pro
 On June 5, we got the DNA report to reveal the mysterious origin of our puppy GoGo. His mom is an Austalia cattle dog (aka Australia Heeler). This part is no mystery at all. But no one knows for sure who his dad is... The DNA test has been done in his first vet visit. Couple weeks later, the report finally is here. It turns out he is mix of Austalia cattle dog (aka Australia Heeler) and Labrador Retriever. 
 
 According to Prof. Stanley Coren's book `The Intelligence of Dogs`[^1], Australian cattle dogs rank 10 and Labrador retrievers rank 7. Therefore, GoGo must rank 8.5 on dog intelligency. I feel so lucj I am study in a statistics master program...
