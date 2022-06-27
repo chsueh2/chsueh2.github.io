@@ -17,7 +17,7 @@
 
 # input rmarkdown file
 # ----------------------------------------------- 
-input <- here("_Rmd", "2022-06-26-ST558-1st-project-ideas")
+input <- here("_Rmd", "2022-06-26-ST558-1st-project-ideas.Rmd")
 
 
 
