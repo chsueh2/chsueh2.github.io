@@ -14,19 +14,18 @@
 # ----------------------------------------------- 
 
 
+library(here)
+library(rmarkdown)
+library(knitr)
+
 
 # input rmarkdown file
 # ----------------------------------------------- 
-input <- here("_Rmd", "2022-06-26-ST558-1st-project-ideas.Rmd")
-
-
+input <- here("_Rmd", "2022-06-28-coolest-thing-in-R.Rmd")
 
 
 # run the following codes to render the file
 # ----------------------------------------------- 
-library(here)
-library(rmarkdown)
-library(knitr)
 
 rmarkdown::render(
   input = input, 
