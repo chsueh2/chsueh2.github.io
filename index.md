@@ -8,6 +8,6 @@ Here I will:
 - and update the mystery...
 ![GoGo PRO](./images/GoGo-PRO.jpg)
 
-## Links
+# Links
 [https://chsueh2.github.io/](https://chsueh2.github.io/)<br>
 [https://github.com/chsueh2/ST558-Project1](https://github.com/chsueh2/ST558-Project1)
