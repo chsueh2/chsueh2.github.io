@@ -1,4 +1,7 @@
 # NCSU ST588 (Summer 2022) Course Blog
+
+[https://chsueh2.github.io/](https://chsueh2.github.io/)
+
 Here I will:
 - share my responses to the assigned readings in this course
 - record learning progress along the course
