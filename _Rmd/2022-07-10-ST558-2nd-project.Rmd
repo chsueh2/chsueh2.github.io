@@ -1,5 +1,5 @@
 ---
-title: "Some Thoughts Aboout ST558 Project 1"
+title: "ST558 Project 2 - Feedbacks"
 author: "Chien-Lan Hsueh"
 date: "`r Sys.Date()`"
 ---
