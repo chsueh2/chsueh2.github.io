@@ -3,10 +3,6 @@ title: "Machine Learning with R"
 author: "Chien-Lan Hsueh"
 date: "`r Sys.Date()`"
 output:
-  html_notebook:
-    theme: cerulean
-    highlight: haddock
-    code_folding: none
   github_document:
     html_preview: FALSE
 ---
