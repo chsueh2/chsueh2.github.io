@@ -1,0 +1,26 @@
+---
+title: "ST558 - A Productive Journey"
+author: "Chien-Lan Hsueh"
+date: "`r Sys.Date()`"
+---
+
+## Do you think you'll continue to use R going forward
+Certainly I will continue to use R in my future works. If it's solely about the programming, R will not be my choice. However, doing data analysis and research is more than programming. I benefit a lot from R's documents and the community. Therefore, to develope a new anaysis routine or modeling workflow, I like to use R. Once it's well tested and ready for scale-up, I then help our software team to port it to other languages for scalability, efficiency (speed) and cost.
+
+
+## What things are you going to do differently in practice now that you've had this course?
+I only used interactive notebook when I coded in Python. For any works with R codes, I did it on R scripts with `source()` like the include headers and preprocess macro in C/C++. This makes it possible to load or run some codes in a dynamic manner depedning on tasks. However, it makes codes hard to share with others.
+
+In this course, I started to use R notebook more although it is still buggy (compared to Jupyter Lab Notebook).  After I learn how to knit nested markdown documnets with parameters and assign in different environment (scope), I can see that this can replace my original workflows and save me another step to share my work.
+
+## What areas of statistics/data science are you thinking about exploring further?
+I would lik to learn more (in depth) about reinforcement learning and neural networks. My main responsibility at work is to figure out the right combination of process parameters using as few experiment runs as possible. On top of the mechanistic models, we rely on statistic models to speed up the R&D cycle. Currently we use random forests and SVM, but quite often, we cannot find good "target labels" to perform these supervised learning algorithms. Our preliminary works using CNN to classify various wafer patterns show very promising results. Taking ST563 Statistical Learning will be my next step and I am really excited about it.
+
+
+This course ST558 is a very rewarding journey for me. Prof. Post, thank you for your efforts designing the curriculum adn your enthusiasm in teaching. "We feel it from the homeworks and projects you assigned", as mentioned by one of my classmates.
+
+
+
+
+
+
