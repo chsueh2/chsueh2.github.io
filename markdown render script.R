@@ -21,7 +21,7 @@ library(knitr)
 
 # input rmarkdown file
 # ----------------------------------------------- 
-input <- here("_Rmd", "2022-07-23-next-step.Rmd")
+input <- here("_Rmd", "2022-08-01-final-project.Rmd")
 
 
 # run the following codes to render the file
