@@ -1,15 +1,15 @@
-# NCSU ST588 (Summer 2022) Course Blog
+# Chien-Lan's Blog
 
-Here I will:
-- share my responses to the assigned readings in this course
-- record learning progress along the course
+Here I will share my...:
+- working projects
+- programming tips (R, python and SQL)
+- learning of statistics and machine learning 
+- thoughts about data science
+
 ![Data Scientist](https://i.redd.it/p6va3hrtmvr71.jpg)
 
-- and update the mystery...
-![GoGo PRO](./images/GoGo-PRO.jpg)
-
 # Links
-[https://chsueh2.github.io/](https://chsueh2.github.io/)<br>
-[https://chsueh2.github.io/ST558-Project1/](https://chsueh2.github.io/ST558-Project1/)<br>
-[https://chsueh2.github.io/ST558-Project2/](https://chsueh2.github.io/ST558-Project2/)<br>
-[https://chsueh2.github.io/ST558-Project3/](https://chsueh2.github.io/ST558-Project3/)
+- [My Resume](https://profile.indeed.com/p/chienlanh-tkm9w32)<br>
+- [My Github repos](https://github.com/chsueh2?tab=repositories)<br>
+- [This Blog](https://chsueh2.github.io/)<br>
+
