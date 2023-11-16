@@ -1,4 +1,4 @@
-# Here I will share my...:
+# Here I will share my...
 
 - working projects
 - programming tips (R, python and SQL)
@@ -6,7 +6,6 @@
 - thoughts about data science
 
 ![Data Scientist](https://i.redd.it/p6va3hrtmvr71.jpg)
-
 
 # My previous works
 
@@ -17,7 +16,6 @@
 - [Nonlinear Regression](https://github.com/chsueh2/Estimate_Variances_PSCF)
 - [Shiny app: Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
 - [Shiny app: 3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
-
 and [more on Github](https://github.com/chsueh2?tab=repositories)
 
 # Links
