@@ -1,6 +1,5 @@
-# Chien-Lan's Blog
+# Here I will share my...:
 
-Here I will share my...:
 - working projects
 - programming tips (R, python and SQL)
 - learning of statistics and machine learning 
@@ -19,7 +18,7 @@ Here I will share my...:
 - [Shiny app: Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
 - [Shiny app: 3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
 
-- and [more on Github](https://github.com/chsueh2?tab=repositories)
+and [more on Github](https://github.com/chsueh2?tab=repositories)
 
 # Links
 
