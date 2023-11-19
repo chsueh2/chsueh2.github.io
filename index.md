@@ -26,6 +26,8 @@
 ## Python
 
 - [Bike Sales: EDA and Prdictions using Grid Search vs. Gradient Descent Algorithm](https://github.com/chsueh2/Grid_Search_GD)
+- [Online Shoppers Purchasing Intention](https://github.com/chsueh2/Online_Shoppers_Purchasing_Intention)
+
 
 # Links
 
