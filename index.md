@@ -1,13 +1,13 @@
 # Here I share my...
 
-- previous works
+- previous works and projects
 - programming tips (R, python and SQL)
 - learning of statistics and machine learning 
 - thoughts about data science
 
 ![Data Scientist](https://i.redd.it/p6va3hrtmvr71.jpg)
 
-# My previous works
+# Projects
 
 ## R
 
@@ -20,18 +20,18 @@
 
 ## Shiny Apps
 
-- [Shiny app: Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
-- [Shiny app: 3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
+- [Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
+- [3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
 
 ## Python
 
 - [Bike Sales: EDA and Prdictions using Grid Search vs. Gradient Descent Algorithm](https://github.com/chsueh2/Grid_Search_GD)
-- [Online Shoppers Purchasing Intention](https://github.com/chsueh2/Online_Shoppers_Purchasing_Intention)
+- [Online Shoppers Purchasing Intention: Logistic Regression, Decision Tree and Random Forests](https://github.com/chsueh2/Online_Shoppers_Purchasing_Intention)
 
 
 # Links
 
-- [My Resume](https://profile.indeed.com/p/chienlanh-tkm9w32)<br>
-- [My Github repos](https://github.com/chsueh2?tab=repositories)<br>
-- [This Blog](https://chsueh2.github.io/)<br>
+- [Resume](https://profile.indeed.com/p/chienlanh-tkm9w32)<br>
+- [Github repos](https://github.com/chsueh2?tab=repositories)<br>
+
 
