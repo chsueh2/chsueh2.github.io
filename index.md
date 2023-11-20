@@ -5,6 +5,8 @@
 - learning of statistics and machine learning 
 - thoughts about data science
 
+[Resume](https://profile.indeed.com/p/chienlanh-tkm9w32) [Github repos](https://github.com/chsueh2?tab=repositories)
+
 ![Data Scientist](https://i.redd.it/p6va3hrtmvr71.jpg)
 
 # Projects
@@ -31,9 +33,6 @@
 - [Online Shoppers Purchasing Intention: Logistic Regression, Decision Tree and Random Forests](https://github.com/chsueh2/Online_Shoppers_Purchasing_Intention)
 
 
-# Links
 
-- [Resume](https://profile.indeed.com/p/chienlanh-tkm9w32)<br>
-- [Github repos](https://github.com/chsueh2?tab=repositories)<br>
 
 
