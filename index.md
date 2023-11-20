@@ -26,6 +26,7 @@
 ## Python
 
 - [Bike Sales: EDA and Prdictions using Grid Search vs. Gradient Descent Algorithm](https://github.com/chsueh2/Grid_Search_GD)
+- [Northwind Salesmen Database: Sale Data Analysis](https://github.com/chsueh2/Northwind_Salesmen_Database)
 - [Online Shoppers Purchasing Intention: Logistic Regression, Decision Tree and Random Forests](https://github.com/chsueh2/Online_Shoppers_Purchasing_Intention)
 
 
