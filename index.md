@@ -27,6 +27,7 @@
 
 ## Python
 
+- [Summarize Student and World Development Data](https://github.com/chsueh2/Summarizing_Data)
 - [Bike Sales: EDA and Prdictions using Grid Search vs. Gradient Descent Algorithm](https://github.com/chsueh2/Grid_Search_GD)
 - [Northwind Salesmen Database: Sale Data Analysis](https://github.com/chsueh2/Northwind_Salesmen_Database)
 - [NFL: Pandas on Spark](https://github.com/chsueh2/NFL_pandas-on-Spark)
