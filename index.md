@@ -19,11 +19,8 @@
 - [Bayesian MCMC Sampling for a Logistic Regression Model](https://github.com/chsueh2/MCMC_Sampling)
 - [Estimate Variances of Model Parameters Using Perturbed SSE Curve Fitting (PSCF) Method](https://github.com/chsueh2/Estimate_Variances_PSCF)
 - [Automating Machine Learning Reports](https://github.com/chsueh2/Automating_Modeling_Reports)
-
-## Shiny Apps
-
-- [Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
-- [3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
+- [Shiny Apps: Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
+- [Shiny Apps: 3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
 
 ## Python
 
