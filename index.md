@@ -34,6 +34,7 @@
 - [NFL: MapReduce](https://github.com/chsueh2/NFL_MapReduce)
 - [NFL: Pandas on Spark](https://github.com/chsueh2/NFL_pandas-on-Spark)
 - [Spark Streaming](https://github.com/chsueh2/PySpark_Streaming)
+- [Diamond: Classification Models](https://github.com/chsueh2/Diamond)
 - [Online Shoppers Purchasing Intention: Logistic Regression, Decision Tree and Random Forests](https://github.com/chsueh2/Online_Shoppers_Purchasing_Intention)
 
 
