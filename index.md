@@ -5,7 +5,7 @@
 - learning of statistics and machine learning 
 - thoughts about data science
 
-[Resume](https://profile.indeed.com/p/chienlanh-tkm9w32) [Github repos](https://github.com/chsueh2?tab=repositories)
+[[Resume](https://profile.indeed.com/p/chienlanh-tkm9w32)] [[Github repos](https://github.com/chsueh2?tab=repositories)]
 
 ![Data Scientist](https://i.redd.it/p6va3hrtmvr71.jpg)
 
