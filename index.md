@@ -25,7 +25,7 @@
 ## Python
 
 - [Summarize Student and World Development Data](https://github.com/chsueh2/Summarizing_Data)
-- [Query MLB Database](https://github.com/chsueh2/Querying_Database_MLB)
+- [SQL Queries on MLB Database](https://github.com/chsueh2/Querying_Database_MLB)
 - [Bike Sales: EDA and Prdictions using Grid Search vs. Gradient Descent Algorithm](https://github.com/chsueh2/Grid_Search_GD)
 - [Northwind Salesmen Database: Sale Data Analysis](https://github.com/chsueh2/Northwind_Salesmen_Database)
 - [NFL: MapReduce](https://github.com/chsueh2/NFL_MapReduce)
