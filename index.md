@@ -13,6 +13,7 @@
 
 ## R
 
+- [Horseshoe Crab: An Exploratory Data Analysis](https://github.com/chsueh2/Horseshoe_Crab_EDA)
 - [Movie Database API Query](https://github.com/chsueh2/Movie_Database_API_Query)
 - [Chi Square Test for Homogeneity: Likelihood Ratio Test vs. Monte Carlo Simulation](https://github.com/chsueh2/LRT_Chi_Square_Test)
 - [Monte Carlo Simulation Study for Estimators and CI Performance](https://github.com/chsueh2/MonteCarlo_CI_Performance)
@@ -30,7 +31,7 @@
 - [Northwind Salesmen Database: Sale Data Analysis](https://github.com/chsueh2/Northwind_Salesmen_Database)
 - [NFL: MapReduce](https://github.com/chsueh2/NFL_MapReduce)
 - [NFL: Pandas on Spark](https://github.com/chsueh2/NFL_pandas-on-Spark)
-- [Spark Streaming](https://github.com/chsueh2/PySpark_Streaming)
+- [Spark Data Streaming](https://github.com/chsueh2/PySpark_Streaming)
 - [Diamond: Classification Models](https://github.com/chsueh2/Diamond)
 - [Online Shoppers Purchasing Intention: Logistic Regression, Decision Tree and Random Forests](https://github.com/chsueh2/Online_Shoppers_Purchasing_Intention)
 
