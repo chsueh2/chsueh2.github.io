@@ -13,17 +13,29 @@
 
 ## R
 
+### ETL and EDA 
+
 - [Horseshoe Crab: An Exploratory Data Analysis](https://github.com/chsueh2/Horseshoe_Crab_EDA)
 - [Movie Database API Query](https://github.com/chsueh2/Movie_Database_API_Query)
+
+### Statistical Inference
+
 - [Parallel Computing: Monte Carlo Study for t-test](https://github.com/chsueh2/Parallel_Computing)
 - [Chi Square Test for Homogeneity: Likelihood Ratio Test vs. Monte Carlo Simulation](https://github.com/chsueh2/LRT_Chi_Square_Test)
 - [Monte Carlo Simulation Study for Estimators and CI Performance](https://github.com/chsueh2/MonteCarlo_CI_Performance)
-- [Bayesian MCMC Sampling for a Logistic Regression Model](https://github.com/chsueh2/MCMC_Sampling)
 - [Estimate Variances of Model Parameters Using Perturbed SSE Curve Fitting (PSCF) Method](https://github.com/chsueh2/Estimate_Variances_PSCF)
+
+### Machine Learning
+
 - [Multiple Linear Regression (MLR) and Logistic Models](https://github.com/chsueh2/MLR_logistic)
+- [KNN and Tree Based Ensemble Models](https://github.com/chsueh2/KNN_Ensemble)
+- [Bayesian MCMC Sampling for a Logistic Regression Model](https://github.com/chsueh2/MCMC_Sampling)
 - [Automating Machine Learning Reports](https://github.com/chsueh2/Automating_Modeling_Reports)
-- [Shiny App: Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
-- [Shiny App: 3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
+
+### Shiny Apps
+
+- [Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
+- [3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
 
 ## Python
 
