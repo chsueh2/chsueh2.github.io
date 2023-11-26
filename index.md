@@ -20,6 +20,7 @@
 - [Monte Carlo Simulation Study for Estimators and CI Performance](https://github.com/chsueh2/MonteCarlo_CI_Performance)
 - [Bayesian MCMC Sampling for a Logistic Regression Model](https://github.com/chsueh2/MCMC_Sampling)
 - [Estimate Variances of Model Parameters Using Perturbed SSE Curve Fitting (PSCF) Method](https://github.com/chsueh2/Estimate_Variances_PSCF)
+- [Multiple Linear Regression (MLR) and Logistic Models](https://github.com/chsueh2/MLR_logistic)
 - [Automating Machine Learning Reports](https://github.com/chsueh2/Automating_Modeling_Reports)
 - [Shiny App: Process Data Dashboard](https://github.com/chsueh2/Process_Data_Dashboard)
 - [Shiny App: 3D Scatter Plot Dashboard](https://github.com/chsueh2/3D_Scatter_Plot_Dashboard)
