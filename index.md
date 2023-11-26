@@ -15,6 +15,7 @@
 
 - [Horseshoe Crab: An Exploratory Data Analysis](https://github.com/chsueh2/Horseshoe_Crab_EDA)
 - [Movie Database API Query](https://github.com/chsueh2/Movie_Database_API_Query)
+- [Parallel Computing: Monte Carlo Study for t-test](https://github.com/chsueh2/Parallel_Computing)
 - [Chi Square Test for Homogeneity: Likelihood Ratio Test vs. Monte Carlo Simulation](https://github.com/chsueh2/LRT_Chi_Square_Test)
 - [Monte Carlo Simulation Study for Estimators and CI Performance](https://github.com/chsueh2/MonteCarlo_CI_Performance)
 - [Bayesian MCMC Sampling for a Logistic Regression Model](https://github.com/chsueh2/MCMC_Sampling)
