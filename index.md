@@ -1,7 +1,7 @@
 # Here I share my...
 
 - previous works and projects
-- programming tips (R, python and SQL)
+- programming tips (R, python, SAS and SQL)
 - learning of statistics and machine learning 
 - thoughts about data science
 
